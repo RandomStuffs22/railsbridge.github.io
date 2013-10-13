@@ -1,0 +1,108 @@
+body {
+  margin: 0;
+  font-family: "Lato", sans;
+  font-weight: 400;
+}
+
+body a {
+  color: #0B486B;
+}
+
+.inner-contents {
+  width: 900px;
+  padding: 30px;
+  margin: 0 auto;
+}
+
+.home {
+  padding-top: 40px;
+  background-color: #A8DBA8;
+}
+
+.about {
+  background-color: #79BD9A;
+}
+
+.helping {
+  background-color: #3B8686;
+}
+
+.processes {
+  background-color: #0B486B;
+}
+
+.processes a {
+  color: #3B8686;
+}
+
+/*font style*/
+
+h1 {
+  font-family: "Crete Round", serif;
+  font-size: 40px;
+}
+
+h2 {
+  font-family: "Crete Round", serif;
+  font-size: 30px;
+}
+
+h3 {
+  font-family: "Lato", serif;
+  font-size: 25px;
+  font-weight: 700;
+}
+
+p {
+  font-size: 20px;
+}
+
+li {
+  font-size: 20px;
+}
+
+/*Header Styles*/
+
+header {
+  position: fixed;
+  width: 100%;
+  background-color: #0B486B;
+  height: 50px;
+  line-height: 50px;
+  color: white;
+}
+
+header a {
+  text-decoration: none;
+  color: white;
+}
+
+header a:hover {
+  color: rgb(211, 214, 233);
+}
+
+header ul {
+  margin: 0;
+}
+
+header li {
+  display: inline;
+  list-style-type: none;
+  margin: 0 20px;
+  font-size: 18px;
+}
+
+.nav {
+  float: right;
+}
+
+.logo {
+  float: left;
+  font-family: "Crete Round", serif;
+  font-size: 25px;
+}
+
+.nav-container {
+  width: 900px;
+  margin: 0 auto;
+}
